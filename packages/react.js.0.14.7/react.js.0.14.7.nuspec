@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>react.js</id>
+    <version>0.14.7</version>
+    <title>react.js</title>
+    <authors>Facebook Inc</authors>
+    <owners>Facebook Inc</owners>
+    <licenseUrl>https://github.com/facebook/react/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://facebook.github.io/react/index.html</projectUrl>
+    <iconUrl>https://api.nuget.org/v3-flatcontainer/react.js/0.14.7/icon</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>React is a JavaScript library for building user interfaces. It's declarative, efficient, and extremely flexible. What's more, it works with the libraries and frameworks that you already know. 
+http://facebook.github.io/react/</description>
+    <summary />
+    <tags>js react reactjs facebook jsx</tags>
+  </metadata>
+</package>
